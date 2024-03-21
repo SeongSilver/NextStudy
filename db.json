@@ -1,0 +1,56 @@
+{
+  "topics": [
+    {
+      "id": "1",
+      "title": "html",
+      "body": "html 어쩌고..."
+    },
+    {
+      "id": "2",
+      "title": "css",
+      "body": "css 어쩌고..."
+    },
+    {
+      "id": "2005",
+      "title": "javscript",
+      "body": "javascript 어쩌고..."
+    },
+    {
+      "id": "1d49",
+      "title": "react",
+      "body": "react 어쩌고..."
+    },
+    {
+      "id": "4e14",
+      "title": "수정된 next",
+      "body": "수정된 next 어쩌고..."
+    },
+    {
+      "id": "14d2",
+      "title": "a",
+      "body": "a"
+    },
+    {
+      "id": "b76c",
+      "title": "Vue",
+      "body": "Vue 어쩌고..."
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
