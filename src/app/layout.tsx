@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 
-import "./globals.css";
+import "../style/globals.css";
 import { useEffect, useState } from "react";
 import { Control } from "./Control";
 import Navigation from "./components/Navigation";
